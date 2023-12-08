@@ -15,6 +15,3 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter_android_class_project
-# flutter_android
-# flutter_android
-# android_class
