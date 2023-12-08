@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # flutter_android_class_project
-Simulator Screenshot - iPhone 15 Pro.png
+![Simulator Screenshot - iPhone 15 Pro](https://github.com/ives-cream/flutter_android_class_project/assets/91444810/3c3573ca-a3da-458a-9c43-60660f6a1d7b)
