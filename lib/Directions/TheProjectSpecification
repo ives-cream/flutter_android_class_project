@@ -1,0 +1,17 @@
+/*
+// the project(programming) specification 專案(程式)說明說
+
+『main.dart』->App() 整個專案的框架
+    『project_home_page.dart』->HomePage() 主要所看到的頁面，可以透過bottom Navigator Bar跟 Drawer 到各個頁面；
+     bottom Navigator Bar 可到達的頁面 ChooseClassPage(), Sneaker_shop()「主要頁面」, ToDoApp()，分別是『choose_class_page.dart、sneaker_shop.dart、to_do_app.dart』；
+     Drawer 可到達的頁面 HomePage(), Sneaker_shop(), LoginOrRegister(), ToDoApp(), BMICalculator(), GestureDetectorApp(), ChooseBeginnerCoursePage()
+        Sneaker_shop()
+            Sneaker_Shop_HomePage()，分別會進入ShopPage()與CardPage()的頁面
+                ShopPage()為選購鞋子，CardPage()為購滿清單
+
+
+
+
+*/
+
+
